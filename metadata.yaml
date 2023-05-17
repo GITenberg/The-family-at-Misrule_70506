@@ -1,0 +1,48 @@
+_repo: The-family-at-Misrule_70506
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Johnson, A. J.
+    alias: Johnson, A.J.
+    gutenberg_agent_id: '26498'
+    url: http://www.gutenberg.org/2009/agents/26498
+creator:
+  author:
+    agent_name: Turner, Ethel
+    aliases:
+    - Turner, Ethel Sybil
+    - Curlewis, H. R., Mrs.
+    - Curlewis, Mrs. H. R.
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '1561'
+    url: http://www.gutenberg.org/2009/agents/1561
+    wikipedia: https://en.wikipedia.org/wiki/Ethel_Turner
+description: ''
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70506'
+language: en
+pgterms:marc905: 20070826205008turner
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bWard, Lock and Bowden, Ltd, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Obedience -- Juvenile fiction'
+- !lcsh 'Woolcot family (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The family at Misrule
+url: http://www.gutenberg.org/ebooks/70506
